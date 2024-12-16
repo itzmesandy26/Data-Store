@@ -1,0 +1,5 @@
+{"item": "POORI", "quantity": 10, "price_per_unit": 20, "discount": 0.2, "tax_rate": 0.075}
+{"item": "PONGAL", "quantity": 5, "price_per_unit": 40, "discount": 0.5, "tax_rate": 0.2}
+{"item": "VADAI", "quantity": 20, "price_per_unit": 5, "discount": 0.05, "tax_rate": 0.03}
+{"item": "POROTA", "quantity": 10, "price_per_unit": 20, "discount": 0.2, "tax_rate": 0.08}
+ 
